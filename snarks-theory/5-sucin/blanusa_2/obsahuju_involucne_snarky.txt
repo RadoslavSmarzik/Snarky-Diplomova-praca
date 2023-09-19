@@ -1,0 +1,8 @@
+Involučné snarky sú v týchto súboroch:
+PERM4_26_15_blanusa_2_results.txt
+PERM4_26_16_blanusa_2_results.txt
+PERM4_26_19_blanusa_2_results.txt
+PERM4_26_20_blanusa_2_results.txt
+PERM4_26_31_blanusa_2_results.txt
+PERM4_26_41_blanusa_2_results.txt
+PERM4_26_42_blanusa_2_results.txt

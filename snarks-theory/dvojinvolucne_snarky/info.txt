@@ -1,0 +1,2 @@
+Priecinok dvojinvolucny_snark_34 obsahuje dvojinvolyčný snark rádu 34 (inv_34_26 z involucnych snarkov rádu 34) a jeho dva neizomorfné kvocienty.
+Priecinok dvojinvolucny_snark_66 obsahuje dvojinvolyčný snark rádu 66 a jeho dva neizomorfné kvocienty.

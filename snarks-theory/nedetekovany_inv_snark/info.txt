@@ -1,0 +1,6 @@
+V súboroch nedetekovany_inv_snark.txt a nedetekovany_inv_snark-simeunovicov_vstup.txt je uložený rovnaký involučný snark, o ktorom Simeunovičov program nedokázal zistiť, že je involučný. 
+
+nedetekovany_inv_snark.txt - obsahuje graf v našom formáte
+nedetekovany_inv_snark-simeunovic_vstup.txt - obsahuje formát vyhovujúci Simeunovičovmu programu
+nedetekovany_inv_snark-inv_2faktory.txt - obsahuje involučné 2-faktory nájdené našim programom
+nedetekovany_inv_snark-simeunovic_vsup_results - výsledkový súbor zo Simeunovičovho programu, ktorý nedetekoval žiaden z involučných 2-faktorov

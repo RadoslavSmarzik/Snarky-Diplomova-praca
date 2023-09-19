@@ -1,0 +1,8 @@
+V tomto priečinku sa nachádza 8 snarkov, pričom jeden je rádu 98, tri su rádu 114, tri su rádu 130 a jeden je rádu 258.
+Pomocou nášho programu na hľadanie 2-faktorov je možné ku všetkým týmto veľkým snarkom nájsť ich 2-faktry.
+Hľadanie 2-faktorov týchto snarkov pomocou Simeunovičovho programu je nemožné, pretože v reálnom čase trvá príliš dlho.
+Týmito ôsmimi snarkami sme chceli ukázať, že existujú veľké snarky, ktorých 2-faktori vieme nájsť našim prístupom a pomocou simeunovičovho programu to nie je možné.
+
+nase_vstupy - obsahuje spomínané grafy v našom formáte
+simeunovic_vstupy - obsahuje spomínané grafy v simeunovičovom formáte
+nase_vysledky - obsahuje 2-faktory, ktoré sme našli naším programom 

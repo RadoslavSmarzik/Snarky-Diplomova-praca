@@ -1,0 +1,9 @@
+V priecinku zdrojove subory sa nachadzaju zdrojove subory k programu.
+
+V priecinku windows sa nachadza verzia programu pre Windows. Subor main.exe by malo byt mozne spustit na 32 aj 64 bitovych Windowsoch od verzie Windows 7 vyssie.
+
+V priecinku linux sa nachadza verzia programu pre Linux. Je mozne, ze pred prvym spustenim bude treba suboru main nastavit prava pre executable subor pomocou prikazu chmod a+rx main. Nasledne je mozne program spustit pomocou prikazu ./main.
+
+V subore manual.pdf sa nachadza manual k programu.
+
+V subore blanusa1.txt je snark Blanusa 1 vo formate vhodnodnom pre nas program.

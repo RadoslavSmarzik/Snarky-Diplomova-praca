@@ -1,0 +1,7 @@
+V priecinku sa nachádzajú 3 priečinky - inv_34_grafy, inv_34_involucne_2faktory, inv_34_kvocienty.
+V priecinky inv_34_grafy je 45 involučných snarkov rádu 34. 
+V priečinku inv_34_involucne_2faktory je pre každý involučný snark rádu 34 súbor obsahujúci involučné 2-faktory.
+V priečinku inv_34_kvocienty je pre každý involučný snark rádu 34 vygenerovaný kvocient aj s grafickou reprezentáciou.
+
+POZNÁNMKA:
+Pre involučný snark inv_34_26 sú vygenerované dva kvocienty, ktoré sú neizomorfné.

@@ -1,0 +1,6 @@
+vstupne_grafy - obsahuje grafy Blanuša 1, Blanuša 2, 65 permutačných snarkov rádu 26
+vstupne_cykly - obsahuje 2-faktory pre vstupne grafy
+Pri generovaní boli použité grafy z priečinka vstupne_grafy a nim bol vždy použitý príslušný 2-faktor z priečinka vstupne_cykly.
+
+blanusa_1 - obsahuje grafy, ktore boli vygenerované 5-súčinom tak, že sme na vstupe zobrali snark Blanuša 1 a jeden z permutačných snarkov rádu 26
+blanusa_2 - obsahuje grafy, ktore boli vygenerovane 5-sucinom tak, že sme na vstupe zobrali snark Blanuša 2 a jeden z permutačných snarkov rádu 26

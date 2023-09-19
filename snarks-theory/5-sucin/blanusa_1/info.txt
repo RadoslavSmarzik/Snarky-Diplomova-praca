@@ -1,0 +1,3 @@
+PERM_26+Blanusa_1 - obsahuje snarky vygenerované 5-súčinom použitím Blanuši 1 a permutačných snarkov rádu 26
+PERM_26+Blanusa_1_results - výsledkové súbory k vygenerovaným snarkom získané zo Simeunovičovho programu
+obsahuje_involucne_snarky.txt - zoznam súbor, kde bol detekovaný involučný snark
